@@ -1,11 +1,11 @@
 #
-# gen_dtmf_tone.py
+# DTMF_Gen.py
 #
 # Generate "dtmf_tone.h" file
 # each DTMF single tone has 50ms of 8KHz sampling(400 samples)
 # with amplitude of 80% of 7bit resolution
 #
-# Made by Jin-Deog Kang, HUMAX Newwork HW Product Team.
+# Made by Jin-Deog Kang, HUMAX Networks HW Team.
 # 
 
 import math
