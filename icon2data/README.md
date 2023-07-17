@@ -7,5 +7,6 @@ Usage:
 
 ico2data.py filename[.ico]
 
-Result
+Result:
+
 filename_template.py
