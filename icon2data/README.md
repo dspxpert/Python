@@ -1,4 +1,4 @@
-##icon2data
+icon2data
 
 Convert icon file to tkinter template with icon file embedded
 
